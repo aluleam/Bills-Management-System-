@@ -49,7 +49,7 @@ void Management::saveIncomeRecord(const IncomeRecord& record)
 
 void Management::saveWeeklyData()
 {
-    // Save weekly data to a separate file
+    // ......
 }
 
 void Management::displayMonthlySummary()
@@ -160,5 +160,5 @@ void Management::saveExpenseRecord(const ExpenseRecord& record)
 
 void Management::provideRecommendations()
 {
-    // Provide financial recommendations based on income and expense data
+   
 }
