@@ -1,10 +1,5 @@
 # Bills-Management-System-
 
-# Bills Management System
-
-## Programmer
-Masumbuko Alulea
-
 ## Description
 This program helps users manage their personal income and expenses. It allows users to:
 - Input income details
